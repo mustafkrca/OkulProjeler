@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\Hafta-2.exe
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\Hafta-2.deps.json
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\Hafta-2.runtimeconfig.json
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\Hafta-2.dll
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\Hafta-2.pdb
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.AssemblyInfo.cs
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.dll
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\refint\Hafta-2.dll
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.pdb
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\Hafta-2.genruntimeconfig.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\ref\Hafta-2.dll

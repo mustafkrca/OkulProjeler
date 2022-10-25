@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\OkulProje.exe
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\OkulProje.deps.json
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\OkulProje.runtimeconfig.json
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\OkulProje.dll
+C:\Users\musta\source\repos\OkulProje\OkulProje\bin\Debug\net6.0\OkulProje.pdb
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.AssemblyInfo.cs
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.dll
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\refint\OkulProje.dll
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.pdb
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\OkulProje.genruntimeconfig.cache
+C:\Users\musta\source\repos\OkulProje\OkulProje\obj\Debug\net6.0\ref\OkulProje.dll
